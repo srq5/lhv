@@ -1,0 +1,25 @@
+{
+  "name": "lhv",
+  "version": "1.0.0",
+  "description": "A website for Lion Hills Vineyard",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srq5/lhv.git"
+  },
+  "author": "Matt Forrest, Steven Sammon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srq5/lhv/issues"
+  },
+  "homepage": "https://github.com/srq5/lhv#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pm2": "^4.4.0"
+  }
+}
